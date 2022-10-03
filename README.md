@@ -1,4 +1,5 @@
-# HSF22-Github-Demo-BASH
+#  BASH-Github-Demo-2022
+
 A Practical Github demo for BASH Fall 2022
 
 ## A little bit about Markdown
