@@ -1,6 +1,6 @@
 # Leave A Message
 
-To give github and markdown a test run, go ahead and leave a message here.
+To give github and markdown a test run, go ahead and leave a message in a markdown file here in this folder.
 You can leave whatever you want (as long as it's safe for work), but to give 
 you some ideas and test out the features of markdown, you could leave:
 
